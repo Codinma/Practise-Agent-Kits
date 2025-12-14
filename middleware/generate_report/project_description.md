@@ -182,3 +182,8 @@ This project uses LangChain with Alibaba Cloud DashScope (Tongyi) to query Weibo
 
   # 或使用 pip
   pip install langchain-community dashscope pymysql
+
+## 作者 / Author
+- 姓名 / Name：熊登峰
+- 邮箱 / Email：18471364852@163.com
+- GitHub：https://github.com/sourceag/Practise-Agent-Kits
